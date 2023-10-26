@@ -1,0 +1,24 @@
+{    
+    "Travel" : [
+      {
+        "id": "1",
+        "position": "13.096291993917765, 109.321073398404",
+        "title": "Thông tin cư trú",
+        "name": "Sala Tuy Hòa Beach",
+        "name1": "THƯỢNG TÔN PHÁP LUẬT",
+        "name2": "GIỚI HẠN TỐC ĐỘ 60KM /H ",
+        "location": " Bãi biển duy tân, Tp Tuy Hòa, pHÚ yên",
+        "price": "$100 - $150",
+        "drive": "none",
+        "image": "test",
+        "image1": "test",
+        "image2": "test",
+        "video": "test",
+        "note": "đây là địa điểm du lịch mới nổi",
+        "createid": "0001",
+        "createtime": "datetime",
+        "writeid": "0001",
+        "writetime": "datetime"
+      }
+    ]   
+}
