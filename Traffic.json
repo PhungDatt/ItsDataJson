@@ -3,7 +3,7 @@
       {
         "id": "1",
         "position": "13.096171350545214, 109.3025618189144",
-        "title": "Thông tin camera & video ",
+        "title": "Thông điệp giao thông ",
         "name": "CHÚ Ý QUAN SÁT",
         "name1": "THƯỢNG TÔN PHÁP LUẬT",
         "name2": "GIỚI HẠN TỐC ĐỘ 60KM /H ",
@@ -13,9 +13,9 @@
         "video": "test",
         "note": "Nút giao đông đúc",
         "createid": "0001",
-        "createtime": "datetime",
+        "createtime": "2:58PM-26/10/2023",
         "writeid": "0001",
-        "writetime": "datetime"
+        "writetime": "2:58PM-26/10/2023"
       }
     ]   
 }
