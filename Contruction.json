@@ -1,0 +1,21 @@
+{    
+    "Contruction" : [
+      {
+        "id": "1",
+        "position": "13.062898605155093, 109.34243815771994",
+        "title": "Thông tin cảnh báo thi công ",
+        "name": "CẢNH BÁO THI CÔNG, GIAO THÔNG CHẬM",
+        "name1": "THƯỢNG TÔN PHÁP LUẬT",
+        "name2": "GIỚI HẠN TỐC ĐỘ 60KM /H ",
+        "location": "650 ĐL Hùng Vương , TP Tuy Hòa , Tỉnh Phú Yên",
+        "drive": "",
+        "image": "test",
+        "video": "test",
+        "note": "Cánh báo về khả năng đang thi công kè chắn sóng hướng đi từ Nam ra Bắc",
+        "createid": "0001",
+        "createtime": "datetime",
+        "writeid": "0001",
+        "writetime": "datetime"
+      }
+    ]   
+}
