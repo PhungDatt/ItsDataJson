@@ -15,6 +15,22 @@
       "createtime": "datetime",
       "writeid": "0001",
       "writetime": "datetime"
+    },
+     {
+      "User_id": "2",
+      "User_Name": "Nguyễn Văn B",
+      "User_Image":"https://variety.com/wp-content/uploads/2021/04/Avatar.jpg",
+      "image1": "https://vcdn1-giaitri.vnecdn.net/2022/09/23/-2181-1663929656.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=apYgDs9tYQiwn7pcDOGbNg",
+      "image2": "",
+      "image3": "",
+      "Like": "12",
+      "Content": "12",
+      "Note_Coment":"",
+      "Video": "",
+      "createid": "0001",
+      "createtime": "datetime",
+      "writeid": "0001",
+      "writetime": "datetime"
     }
   ]
 }
